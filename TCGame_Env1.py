@@ -1,3 +1,4 @@
+#this is environment for the tic tac toe game
 from gym import spaces
 import numpy as np
 import random
